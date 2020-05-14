@@ -1,0 +1,5 @@
+TEXT CLASSES:
+  
+  text-center
+  text-success   //color green
+  text-capitalize
